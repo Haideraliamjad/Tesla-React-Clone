@@ -1,0 +1,26 @@
+.primary 
+{
+    background: black;
+    color: white;
+    margin: 0 10px;
+    height: 45px;
+    border: none;
+    width: 295px;
+    border-radius: 30px;
+    cursor: pointer;
+    opacity: 0.8;
+    text-transform: uppercase;
+}
+.secandory 
+{
+    background: white;
+    color: black;
+    margin: 0 10px;
+    height: 45px;
+    border: none;
+    width: 295px;
+    border-radius: 30px;
+    cursor: pointer;
+    opacity: 0.8;
+    text-transform: uppercase;
+}
